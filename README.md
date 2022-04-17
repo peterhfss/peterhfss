@@ -1,24 +1,43 @@
-##  Olá! Eu sou o Pedro Henrique! 👋
 
-<div style='display: inline_block'>
-<a href='https://twitter.com/Peterhfss'><img aling='center' alt='twitter' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white'/></a>
-<a href='https://www.linkedin.com/in/pedrohenriquefrancelino/'><img aling='center' alt='linkedin' src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'/></a>
+<h2>Hello there 👋, I'm Pedro Henrique!</h2>
+
+<br >
+
+I'm a student of the course of Information Systems and a padawan developer treading a journey in web and mobile development. I'm also passionate about game development and UX/UI. 
+I write weekly about my studies on Hashnode, <a href="https://pedrohfss.hashnode.dev/">follow me</a>.
+
+<h3>Connect with me:</h3>
+
+<div style="display:flex">
+<a target="_blank" href="https://www.linkedin.com/in/pedrohenriquefrancelino/">
+  <img align="left" alt="Linkdein Logo" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="margin:5px;"/>
+</a>
+<a target="_blank" href="https://twitter.com/Peterhfss">
+  <img align="left" alt="Twitter Logo" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" style="margin:5px;"/>
+</a>
+
 </div>
 
-Sou estudante de Sistemas de Informação e apaixonado por tecnologia.<br/>
-Um dev padawan que está trilhando os caminhos de desenvolvimento web no **back-end** , **front-end** e também no desenvolvimento **mobile**.
+<br >
 
-### Skills
+<h3>Languagens and Tools</h3>
 
-<div style='display: inline_block'><br/>
-<img aling='center' alt='html5' src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white'/>
-<img aling='center' alt='css3' src='https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white'/>
-</div><br/>
+<div style="display:flex;">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width:32px; margin:5px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width:32px; margin:5px;"/>
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width:32px; margin:5px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="width:32px; margin:5px;"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width:32px; margin:5px;"/>
+</div>
+
+<br >
+
+[![peterhfss' GitHub stats](https://github-readme-stats.vercel.app/api?username=peterhfss)](https://github.com/peterhfss)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact)](https://github.com/peterhfss)
+        
