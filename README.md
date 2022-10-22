@@ -1,7 +1,6 @@
 
 <h2>Hello there 👋, I'm Pedro Henrique!</h2>
 
------
 <div style="display:flex; gap: 10px;">
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquefrancelino/)
