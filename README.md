@@ -1,49 +1,94 @@
+<div id="header" align="center">
+<h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"/> , I'm Pedro Henrique</h2>
 
-<h2>Hello there 👋, I'm Pedro Henrique!</h2>
-
-<div style="display:flex; gap: 10px;">
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquefrancelino/)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Peterhfss)
-
-</div>
-
-<br >
-
-I'm a student of the course of Information Systems and a padawan developer treading a journey in web and mobile development. I'm also passionate about game development and UX/UI. 
-I write weekly about my studies on Hashnode, <a href="https://pedrohfss.hashnode.dev/">follow me</a>.
-
-<br >
-
-<div style="display:flex;">
-
-<a href="https://github.com/peterhfss">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=peterhfss&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-    />
+<div id="badges">
+  <a href="https://www.linkedin.com/in/pedrohenriquefrancelino/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://github.com/peterhfss/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact&theme=radical" />
-  </a>  
-
+  <a href="https://twitter.com/Peterhfss">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=peterhfss&style=flat-square&color=blue" alt=""/>
+</div>
+<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
 </div>
 
-<br>
+---
 
-<h3>Languagens and Tools:</h3>
+### 👨‍💻 About Me:
 
-<div style="display:flex;">
+I'm a student from Brazil, that treading a journey to a Full Stack Developer.
 
-<img src="https://xesque.rocketseat.dev/platform/tech/css3.svg" style="width:32px; margin:5px;"/>
+- 🔭 I’m currently working on **Pokedex**
 
-<img src="https://xesque.rocketseat.dev/platform/tech/html5.svg" style="width:32px; margin:5px;"/>
-          
-<img src="https://xesque.rocketseat.dev/platform/tech/javascript.svg" style="width:32px; margin:5px;"/>
+- 🌱 I’m currently learning **JavaScript, TypeScript, Python, React**
+
+- 📝 I regularly write articles on [hashnode](https://hashnode.com/@pedrohenriquefss)
+
+- 💬 Ask me about **React, Python**
+
+---
+
+### 🛠️ Tech Skills:
 
 
-<img src="https://xesque.rocketseat.dev/platform/tech/python.svg" style="width:32px; margin:5px;"/>
-</div>   
+#### Programming Languages
+
+<div>
+  <img src="./icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
+  <img src="./icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
+  <img src="./icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
+  <img src="./icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
+  <img src="./icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+</div>
+
+#### Frontend Development
+
+<div>
+  <img src="./icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
+  <img src="./icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
+  <img src="./icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
+  <img src="./icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
+</div>
+
+#### Backend Development
+
+<div>
+  <img src="./icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
+</div>
+
+#### Mobile App Development
+
+<div>
+  <img src="./icons/react/react-original.svg" title="ReactNative" **alt="ReactNative" width="40" height="40"/>
+</div>
+
+<!--
+Database
+
+Devops
+
+Backend as a Service(BaaS)
+
+Framework
+
+Testing
+
+Software
+
+Static Site Generators
+
+Game Engines
+
+Other
+--->
+---
+
+### 🔥 My Stats:
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peterhfss&theme=react&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact&theme=react&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
