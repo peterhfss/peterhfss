@@ -22,7 +22,7 @@
 
 I'm a student from Brazil, that treading a journey to a Full Stack Developer.
 
-- 🔭 I’m currently working on **Pokedex**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python, React**
 
