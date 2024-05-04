@@ -41,8 +41,6 @@ I'm a student from Brazil, that treading a journey to a Full Stack Developer.
   <img src="./icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
   <img src="./icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="./icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-  <img src="./icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
-  <img src="./icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
 </div>
 
 #### Frontend Development
