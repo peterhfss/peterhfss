@@ -22,7 +22,7 @@
 
 I'm a student from Brazil, that treading a journey to a Full Stack Developer.
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Blog**
 
 - 🌱 I’m currently learning **JavaScript, TypeScript, Python, React**
 
@@ -37,7 +37,7 @@ I'm a student from Brazil, that treading a journey to a Full Stack Developer.
 
 #### Programming Languages
 
-<div>
+<div style='display:flex; gap:30px;'>
   <img src="./icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
   <img src="./icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="./icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
@@ -45,22 +45,29 @@ I'm a student from Brazil, that treading a journey to a Full Stack Developer.
 
 #### Frontend Development
 
-<div>
+<div style='display:flex; gap:30px;'>
   <img src="./icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
   <img src="./icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
   <img src="./icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
   <img src="./icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
+   <img src="./icons/nextjs/nextjs-line.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
 </div>
 
 #### Backend Development
 
-<div>
+<div style='display:flex; gap:30px;'>
   <img src="./icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
+</div>
+
+#### Test Development
+
+<div style='display:flex; gap:30px;'>
+  <img src="./icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
 </div>
 
 #### Mobile App Development
 
-<div>
+<div style='display:flex; gap:30px;'>
   <img src="./icons/react/react-original.svg" title="ReactNative" **alt="ReactNative" width="40" height="40"/>
 </div>
 
