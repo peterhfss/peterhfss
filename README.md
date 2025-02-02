@@ -1,96 +1,35 @@
-<div id="header" align="center">
 <h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"/> , I'm Pedro Henrique</h2>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/pedrohenriquefrancelino/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Peterhfss">
-      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=peterhfss&style=flat-square&color=blue" alt=""/>
-</div>
-<br>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="250"/>
-</div>
+Full Stack Developer
 
----
-
-### 👨‍💻 About Me:
-
-I'm a student from Brazil, that treading a journey to a Full Stack Developer.
-
-- 🔭 I’m currently working on **My Blog**
-
-- 🌱 I’m currently learning **JavaScript, TypeScript, Python, React**
-
-- 📝 I regularly write articles on [hashnode](https://hashnode.com/@pedrohenriquefss)
-
-- 💬 Ask me about **React, Python**
-
----
-
-### 🛠️ Tech Skills:
+[![Portfolio Badge](https://img.shields.io/badge/Pedroh.dev-4a235a?style=flat-square&logo=portfolio)](https://pedrohdev.com/en-US)
+[![Linkedin Badge](https://img.shields.io/badge/Pedro%20Henrique-4a235a?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedrohenriquefrancelino%2F)](https://www.linkedin.com/in/pedrohenriquefrancelino/)
+[![Gmail Badge](https://img.shields.io/badge/Pedro%20Henrique-4a235a?style=flat-square&logo=gmail)](mailto:pedroh.fss@gmail.com)
 
 
-#### Programming Languages
+I am a fullstack developer passionate about technology and continuous learning. Currently, I am focused on improving my skills in **TypeScript, Python, React, and Node.js**.
 
-<div style='display:flex; gap:30px;'>
-  <img src="./icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
-  <img src="./icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
-  <img src="./icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
-</div>
+## 🚀 About Me
+- 🔭 Looking for opportunities as a fullstack developer.
+- 📚 Studying **TypeScript, Python, React, and Node.js**.
+- 🌍 Working to expand my international experience.
+- 💡 Interested in challenging projects and innovative solutions.
 
-#### Frontend Development
+## 🛠️ Technologies & Tools
 
-<div style='display:flex; gap:30px;'>
-  <img src="./icons/html5/html5-original.svg" title="HTML5" **alt="HTML5" width="40" height="40"/>
-  <img src="./icons/css3/css3-original.svg" title="CSS3" **alt="CSS3" width="40" height="40"/>
-  <img src="./icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
-  <img src="./icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" **alt="TailwindCSS" width="40" height="40"/>
-   <img src="./icons/nextjs/nextjs-line.svg" title="Next.js" **alt="Next.js" width="40" height="40"/>
-</div>
+ ![Static Badge](https://img.shields.io/badge/React-454545?style=for-the-badge&logo=react)
+ ![Static Badge](https://img.shields.io/badge/JavaScript-454545?style=for-the-badge&logo=javascript)
+ ![Static Badge](https://img.shields.io/badge/TypeScript-454545?style=for-the-badge&logo=typescript)
+ ![Static Badge](https://img.shields.io/badge/Node.js-454545?style=for-the-badge&logo=node.js)
+ ![Static Badge](https://img.shields.io/badge/Python-454545?style=for-the-badge&logo=python)
+ ![Static Badge](https://img.shields.io/badge/Next.js-454545?style=for-the-badge&logo=next.js)
+ ![Static Badge](https://img.shields.io/badge/HTML-454545?style=for-the-badge&logo=html5)
+ ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-454545?style=for-the-badge&logo=tailwindcss)
 
-#### Backend Development
 
-<div style='display:flex; gap:30px;'>
-  <img src="./icons/nodejs/nodejs-original.svg" title="NodeJS" **alt="NodeJS" width="40" height="40"/>
-</div>
 
-#### Test Development
 
-<div style='display:flex; gap:30px;'>
-  <img src="./icons/jest/jest-plain.svg" title="Jest" **alt="Jest" width="40" height="40"/>
-</div>
-
-#### Mobile App Development
-
-<div style='display:flex; gap:30px;'>
-  <img src="./icons/react/react-original.svg" title="ReactNative" **alt="ReactNative" width="40" height="40"/>
-</div>
-
-<!--
-Database
-
-Devops
-
-Backend as a Service(BaaS)
-
-Framework
-
-Testing
-
-Software
-
-Static Site Generators
-
-Game Engines
-
-Other
---->
----
+Feel free to explore my projects and contribute with suggestions. Let's build something amazing together! 🚀
 
 ### 🔥 My Stats:
 
