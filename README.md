@@ -34,4 +34,5 @@ Feel free to explore my projects and contribute with suggestions. Let's build so
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=peterhfss&theme=react&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact&theme=react&hide_border=true&border_radius=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact&theme=react&hide_border=true&border_radius=10)](https://github.com/peterhfss/github-readme-stats)
+
