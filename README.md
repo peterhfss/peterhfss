@@ -1,38 +1,49 @@
-<h2>Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26px"/> , I'm Pedro Henrique</h2>
+## Pedro Henrique
 
+Hello, my name is Pedro Henrique. I'm a developer in training, currently a 
+student at [Faculdade de Tecnologia Rocketseat](https://www.rocketseat.com.br/faculdade), 
+transitioning my career into tech. I focus on building practical and 
+scalable solutions, deepening my knowledge of the fullstack ecosystem, 
+best practices, and solving real-world problems.
 
-[![Portfolio Badge](https://img.shields.io/badge/Pedroh.dev-4a235a?style=flat-square&logo=portfolio)](https://pedrohdev.com/en-US)
-[![Linkedin Badge](https://img.shields.io/badge/Pedro%20Henrique-4a235a?style=flat-square&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fpedrohenriquefrancelino%2F)](https://www.linkedin.com/in/pedrohenriquefrancelino/)
-[![Gmail Badge](https://img.shields.io/badge/Pedro%20Henrique-4a235a?style=flat-square&logo=gmail)](mailto:pedroh.fss@gmail.com)
+### Technologies and tools
 
+**Languages**
 
-I am a fullstack developer passionate about technology and continuous learning. Currently, I am focused on improving my skills in **TypeScript, Python, React, and Node.js**.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🚀 About Me
-- 🔭 Looking for opportunities as a fullstack developer.
-- 📚 Studying **TypeScript, Python, React, and Node.js**.
-- 🌍 Working to expand my international experience.
-- 💡 Interested in challenging projects and innovative solutions.
+**Frontend**
 
-## 🛠️ Technologies & Tools
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
- ![Static Badge](https://img.shields.io/badge/React-454545?style=for-the-badge&logo=react)
- ![Static Badge](https://img.shields.io/badge/JavaScript-454545?style=for-the-badge&logo=javascript)
- ![Static Badge](https://img.shields.io/badge/TypeScript-454545?style=for-the-badge&logo=typescript)
- ![Static Badge](https://img.shields.io/badge/Node.js-454545?style=for-the-badge&logo=node.js)
- ![Static Badge](https://img.shields.io/badge/Python-454545?style=for-the-badge&logo=python)
- ![Static Badge](https://img.shields.io/badge/Next.js-454545?style=for-the-badge&logo=next.js)
- ![Static Badge](https://img.shields.io/badge/HTML-454545?style=for-the-badge&logo=html5)
- ![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-454545?style=for-the-badge&logo=tailwindcss)
+**Backend**
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Fastify](https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white)
 
+**Database & Infra**
 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-Feel free to explore my projects and contribute with suggestions. Let's build something amazing together! 🚀
+**Tools**
 
-### 🔥 My Stats:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=peterhfss&theme=react&hide_border=true)](https://git.io/streak-stats)
+### GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterhfss&layout=compact&theme=react&hide_border=true&border_radius=10)](https://github.com/peterhfss/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=peterhfss&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
+
+### Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrohenriquefrancelino/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedroh.fss@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sir_peter_holmes/)
+
 
