@@ -38,7 +38,7 @@ best practices, and solving real-world problems.
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=peterhfss&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-teal-eight-46.vercel.app?user=peterhfss&theme=dark-minimalist&hide_border=true)](https://git.io/streak-stats)
 
 ### Socials
 
